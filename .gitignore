@@ -1,0 +1,13 @@
+credentials.py
+.env
+.env.*
+project.env
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
